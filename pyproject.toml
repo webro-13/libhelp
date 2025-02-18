@@ -20,7 +20,9 @@ license-files = ["LICEN[CS]E*"]
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/pycheet"]
+packages = ["src/libhelp"]
 
 [project.urls]
 Homepage = ""
-Issues = ""
+Issues = ""Homepage = "https://github.com/webro-13/libhelp"
+Issues = "https://github.com/webro-13/libhelp/issues"

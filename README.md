@@ -1,1 +1,1 @@
-# libhelp
+# libhelpthis library is a python library, made to help you find out the syntax for other librarys. it currently is still under development
