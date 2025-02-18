@@ -1,1 +1,0 @@
-this library is a python "cheet" library. it currently is still under developmentthis library is a python library, made to help you find out the syntax for other librarys. it currently is still under development
