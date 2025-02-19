@@ -1,6 +1,6 @@
 def hlib():
-    if input() == 'libhelper':
-        print('this is a python helper library made to help you figure out the syntax of other python libraries. just type the name of the library you want to know about and it will tell you the syntax of the functions in that library. to find out what libraries I know, type "known libs"')
+    if input() == 'libhelp':
+        print('this is a python helper library made to help you figure out the syntax of other python libraries. just type the name of the library you want to know about and it will tell you the syntax of the functions in that library. to find out what libraries I know, type "known libs.')
     elif input() == 'known libs':
         print('pycheet')
     elif input() == 'pycheet':
