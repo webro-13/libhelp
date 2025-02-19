@@ -1,10 +1,3 @@
-def fr():
-    open('log.txt', 'r')
-
-
-def fw():
-    open('log.txt', 'w')
-
-
-def fa():
-    open('log.txt', 'a')
+def klib():
+    if input() == 'known libs':
+        print('there are no known libs')
