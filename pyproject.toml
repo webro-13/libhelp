@@ -4,11 +4,11 @@ build-backend = "hatchling.build"
 
 [project]
 name = "libhelper"
-version = "0.0.2"
+version = "0.0.3"
 authors = [
   { name="Rocco S", email="robotmen13@gmail.com" },
 ]
-description = "A py library helper"
+description = "A Python library helper."
 readme = "README.md"
 requires-python = ">=3.8"
 classifiers = [
