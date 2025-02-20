@@ -1,4 +1,4 @@
-print('this is a python helper library made to help you figure out the syntax of other python libraries. just type the name of the library in the parentheses you want to know about and it will tell you the syntax of the functions in that library. to find out what libraries I know, type known libs in the parentheses.')
+print('this is a python helper library made to help you figure out the syntax of other python libraries. just type the name of the library you want to know about in the parentheses, and it will tell you the syntax of the functions in that library. to find out what libraries I know, type known libs in the parentheses.')
 
 def hlib(lib):
     if lib == 'known libs':
